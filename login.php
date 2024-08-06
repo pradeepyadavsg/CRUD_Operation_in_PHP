@@ -22,12 +22,12 @@
                     <img src="https://cdn-icons-png.flaticon.com/128/10405/10405572.png" class="logo img-fluid imgg">
                     <form>
                         <div class="mb-3">
-                            <label class="label_txt">Username or Email</label>
-                            <input type="email" class="form-control" placeholder="Email" required>
+                            <label class="label_txt">Email</label>
+                            <input type="email" class="form-control" placeholder="enter your email" required>
                         </div>
                         <div class="mb-3">
                             <label class="label_txt">Password</label>
-                            <input type="password" class="form-control" placeholder="password" required>
+                            <input type="password" class="form-control" placeholder="enter your password" required>
                         </div>
                         <button type="submit" class="btn btn-primary form_btn">Login</button>
                     </form>

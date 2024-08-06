@@ -23,7 +23,7 @@
                     <form>
                         <div class="mb-3">
                             <label class="label_txt">Username or Email</label>
-                            <input type="email" class="form-control" placeholder="Enter User or Email" required>
+                            <input type="email" class="form-control" placeholder="Email" required>
                         </div>
                         <div class="mb-3">
                             <label class="label_txt">Password</label>
